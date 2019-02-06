@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class VowCons
+public class VowConst
  {
   public static void main(String args[])
   {
