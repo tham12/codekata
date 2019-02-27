@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class alph
+class Alph
 {
      public static void main(String args[])
     {
