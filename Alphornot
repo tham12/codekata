@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
- class AlphOrnot
+ class Alphornot
 {
  static void main(String args[])
     {
