@@ -13,7 +13,7 @@ class Alph
         }
         else
         {
-            System.out.print(ch + "  Alphabet");
+            System.out.print(ch + "no");
         }
     }
 }
