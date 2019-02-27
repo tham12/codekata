@@ -5,8 +5,6 @@ import java.util.Scanner;
     {
        int yr;
        Scanner scan = new Scanner(System.in);
-	   
-       System.out.print("Enter Year : ");
        yr = scan.nextInt();
 	   
        if((yr%4 == 0) && (yr%100!=0))
