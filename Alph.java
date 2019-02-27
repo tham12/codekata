@@ -1,7 +1,7 @@
 import java.util.Scanner;
 class alph
 {
-     static void main(String args[])
+     public static void main(String args[])
     {
         char ch;
         Scanner scan = new Scanner(System.in);
