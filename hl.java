@@ -8,7 +8,7 @@ import java.util.Scanner;
        N = scan.nextInt();
         for (int i = 0; i < N; i++) 
         {
-            System.out.println("hello");
+            System.out.println("Hello");
         }
     }
 }
