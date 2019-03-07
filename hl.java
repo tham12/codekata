@@ -1,5 +1,5 @@
 import java.util.Scanner;
- class hel
+ class hl
 {
     public static void main(String args[])
     {
