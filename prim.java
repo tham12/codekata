@@ -1,5 +1,5 @@
 import java.util.Scanner; 
-public prim
+class prim
 { 
  
     public static void main(String[] args) { 
