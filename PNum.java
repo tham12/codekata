@@ -1,14 +1,10 @@
-import java.util.Scanner;
+import java.util.*;
 class PNum {
-   public static void main(String args[]){
+   public static void main(String args[])
+   {
       Scanner sc = new Scanner(System.in);
-      int base = sc.nextInt();
-      int temp = base;
-      int exp = sc.nextInt();
-
-      for (int i=1; i<exp; i++){
-         temp = temp*temp;
-      }
-      System.out.println(""+temp);
+      int a = sc.nextInt();
+      int b = sc.nextInt();
+      System.out.println(Math.round(Math.pow(a,b)));
    }
 }
