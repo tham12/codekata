@@ -17,11 +17,11 @@ prime=1;
 }
 if(prime==0)
 {
-System.out.println("yes");
+System.out.println("no");
 }
 else
 {
-System.out.println("no");
+System.out.println("yes");
 }
 }
 }
